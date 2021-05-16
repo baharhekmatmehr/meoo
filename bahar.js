@@ -3,4 +3,4 @@ a = x * 2;
 console.log(a);hkhkj
 ....
 // --------gdf66gggggmmmdf
-fff
+fffjhgj
