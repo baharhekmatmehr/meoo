@@ -1,6 +1,6 @@
 let x = 2;
 a = x * 2;
-console.log(a);
+console.log(a);hkhkj
 ....
-// --------gdfgdf
+// --------gdf66gggggmmmdf
 fff
